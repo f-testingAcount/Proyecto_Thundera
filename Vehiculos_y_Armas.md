@@ -1,4 +1,5 @@
 # INVENTARIO
 
 1. Thundertank
-2. Ojo de THUNDERA
+2. Espada del Augurio
+3. Ojo de THUNDERA

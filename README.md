@@ -1,3 +1,3 @@
 # Proyecto_Thundera
 
-Descripcion
+Objetivo: Describir el contexto de la llegada de los Thundercats al tercer planeta.
